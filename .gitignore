@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.astro/
+.wrangler/
+.tools/
+.npm-cache/
+.astro-dev.log
+.astro-dev.err
+.env
+.env.*
+!.env.example
